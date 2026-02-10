@@ -93,7 +93,7 @@ system($_GET['cmd']);
 ```
 ---
 ### URL en la que se expone el script
-Modificar la url en la que se expone el script en el sistema
+Modificar la url en la que se expone el  payload PHP en el servidor en el sistema
 <img width="900" height="628" alt="image" src="https://github.com/user-attachments/assets/b6aa89cf-b9fb-4cf3-9b08-81ed6cf38c13" />
 
 
